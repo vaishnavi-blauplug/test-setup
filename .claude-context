@@ -1,0 +1,13 @@
+# Claude Code Context File
+# This file helps Claude Code understand the project context
+
+PROJECT_NAME=active-project
+PROJECT_TYPE=active-project
+WORKSPACE_LEVEL=project
+CREATED_DATE=2026-01-06
+
+# Key files to check for context
+REQUIRED_FILES=CLAUDE.md,docs/ARCHITECTURE.md,docs/architectural_decisions/ADR-000_project_structure.md
+
+# Instructions for Claude
+CONTEXT_INSTRUCTIONS="Read CLAUDE.md first, check ADRs before architectural decisions, maintain documentation"

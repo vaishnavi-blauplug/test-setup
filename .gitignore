@@ -1,0 +1,26 @@
+
+# Project-level sensitive data
+/cert/*.pem
+/cert/*.key
+/cert/.env
+/logs/*.log
+/data/sensitive/
+/data/temp/
+
+# Keep directory structure
+!/cert/.gitkeep
+!/logs/.gitkeep
+!/data/.gitkeep
+
+# Project-level sensitive data
+/cert/*.pem
+/cert/*.key
+/cert/.env
+/logs/*.log
+/data/sensitive/
+/data/temp/
+
+# Keep directory structure
+!/cert/.gitkeep
+!/logs/.gitkeep
+!/data/.gitkeep
