@@ -1,0 +1,9 @@
+This is a test file to verify git operations in the container.
+
+Testing:
+- git add
+- git commit
+- git push
+- git rm
+
+Created: 2026-01-08
